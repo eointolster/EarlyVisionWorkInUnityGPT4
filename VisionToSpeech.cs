@@ -14,7 +14,7 @@ public class VisionToSpeech : MonoBehaviour
 {
     public KeyCode activationKey = KeyCode.Keypad1;
 
-    private string openAIApiKey = "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";
+    private string openAIApiKey = "API-key here :)";
 
     public Camera playerCamera; // The main camera for the player
     public Camera npcCamera; // The camera attached to the NPC
